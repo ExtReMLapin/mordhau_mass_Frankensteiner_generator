@@ -7,3 +7,4 @@ Because the [Frankensteiner](https://github.com/Dealman/Frankensteiner) by [Deal
 # [Watch this video to understand how to use it.](https://www.youtube.com/watch?v=jZPcDFCUR8Q)
 
 
+You need [lua binary](http://luabinaries.sourceforge.net/download.html) to execute the file
