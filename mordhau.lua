@@ -35,12 +35,11 @@ end
 
 local _outTable = {}
 
-local i = 0
-while (i < count) do
+local i = 1
+while (i <= count) do
 	_outTable[i] = genCharacter(tostring(i), random)
 	i = i + 1
 end
-
 
 local file = io.open ("mordhau_out.txt", "w+")
 file:write(table.concat(_outTable, "\n"))
