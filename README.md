@@ -17,6 +17,8 @@ As explained in the video :
 
 * backup the file
 
+* run the generator with `lua mordhau.lua` using powershell/cmd/what you want to run lua files
+
 * find the lines with `CharacterProfiles=(Name=INVTEXT(` at the start
 
 * replace all the lines with the generated faces (from the generated file)
