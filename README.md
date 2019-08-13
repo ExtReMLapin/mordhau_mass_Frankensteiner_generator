@@ -8,3 +8,23 @@ Because the [Frankensteiner](https://github.com/Dealman/Frankensteiner) by [Deal
 
 
 You need [lua binary](http://luabinaries.sourceforge.net/download.html) to execute the file
+
+
+
+As explained in the video : 
+
+* go in `AppData\Local\Mordhau\Saved\Config\WindowsClient\Game.ini`
+
+* backup the file
+
+* find the lines with `CharacterProfiles=(Name=INVTEXT(` at the start
+
+* replace all the lines with the generated faces (from the generated file)
+
+* pick what you want in the game using the mercenaries names (numbers)
+
+* put them in a temp file
+
+* restore the original file
+
+* add the mercenaries face you likes at the end of the list of your original mercenaries.
